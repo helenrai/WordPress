@@ -26,10 +26,10 @@ define('DB_NAME', 'databasename');
 define('DB_USER', 'databaseuser');
 
 /** MySQL database password */
-define('DB_PASSWORD', '1lumbini2');
+define('DB_PASSWORD', '1Lumbini@2');
 
 /** MySQL hostname */
-define('DB_HOST', 'zerone-addon-2353-72-mysql.zerone-1313-2353.svc.cluster.local');
+define('DB_HOST', 'zerone-addon-2463-72-mysql.zerone-1336-2463.svc.cluster.local');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         '~;FpX@,[F[*.%.pZAPWdJjq@N?k{F)|O`L[*-6$jlspb?B!MA`*%pOP6TcD-&N f');
-define('SECURE_AUTH_KEY',  '=B8=Cz{EqN&eLWavJR}uj_}`P;|,TPrFo(o~iG}m4h@4GNwCbA`nFn%EFgeuqN6S');
-define('LOGGED_IN_KEY',    'yO u1Cinn]/c#*`3-X.?i31,dn`kcp4FR!(+7/aPKygMQy7(bNGhmE.yL={}7n(7');
-define('NONCE_KEY',        'y5OG([LH:gyOsCGu]iHg{=y;C|JJ2mJ Vumo=zZ5g)M)E:H2XR`LH`wTC+}KDRH^');
-define('AUTH_SALT',        '[DY& :KSw3~D:C-Dg_h95<A7BwrW_+NI%Sk|vjEWWH=L84>3sSr8~eM&~EV&k.$c');
-define('SECURE_AUTH_SALT', '`T?m.l&`,C48v^)#v(ZD^:JWHRNv&RUz;D/#rSHN6yjzUxdXe~}SaTvFd~pTA@|x');
-define('LOGGED_IN_SALT',   'yp95v}.&Ut3$Zz7OV3<d}2S,B?g2Y[/Kqr/_~<sr3FAmYEL<%>}Si}_6y{i2`Sm<');
-define('NONCE_SALT',       'Mz?qjjB%:uxqSdpb,<P9j0QRC7( nX#E1%7$wG(Cb@y/`$/Lfqm~v#l|h#fSqM~]');
+define('AUTH_KEY',         '51-7Be&_#M8$_%jsH|Y~Y!,~7z(qz4vb8KwnKZl;X@67hr;^8*<`U<J(oA?<_X-E');
+define('SECURE_AUTH_KEY',  'c0hFN)ZFC$aoDi-SFpe$F@w7LaMv :_%X(<^2V{yqBf$DB:1z+oRzYh[U27h/u86');
+define('LOGGED_IN_KEY',    'K3CT=@LuF%S(V?FlTq4`GPRN*_w,E^/1:P5IDzD NBg|SS9Z)4?r!<*`%)73vV, ');
+define('NONCE_KEY',        '%[>&s5EH8oE_2fJ >S9:XtAg#F?a?6NxP[N6|4qwN9@DgBd-9u_2JMn7.tGeCa+@');
+define('AUTH_SALT',        ':,xIp!^eS#8N-L5M3x2mk-!yA7-aU.P9@AGg#kOCU[xD6;`*0-Yx]7>&IH7$ n$3');
+define('SECURE_AUTH_SALT', 'tl=]xt:,<R}2} E3mcoD8QT[h5bnD/3bG(0e^,nYYW7Qku`9/EMuLLNq i+:Oje?');
+define('LOGGED_IN_SALT',   '1opfKK7N,H_8>?5=fCaz^>C%a:4X4<msN_qX#%h:&[GWt:^=OSqJ?#8~w4.zk1Wt');
+define('NONCE_SALT',       'GQjZX}/l*%</o%9|b%wb N{eI`c!G6OP<7y!{!;{t4&A<Q~N+m+{JQ%]sNn7Olop');
 
 /**#@-*/
 
